@@ -40,7 +40,7 @@ input:focus {
 
 @media (max-width: 480px) {
   fieldset {
-    width: 100%;
+    width: 90%;
     float: none;
     padding: 20px 10px 10px 35px; }
 
@@ -48,7 +48,7 @@ input:focus {
     margin: 0 auto; } }
 @media (min-width: 480px) and (max-width: 720px) {
   fieldset {
-    width: 100%;
+    width: 90%;
     float: none;
     padding: 20px 10px 10px 55px; } }
 
